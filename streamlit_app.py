@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 
 # Define the URL of the chatbot
