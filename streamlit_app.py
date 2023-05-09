@@ -12,7 +12,7 @@ def app():
     st.set_page_config(page_title="Chatbot App", page_icon=":robot_face:")
 
     # Add a header
-    st.header("Welcome to the Fintechflex ChatBot!")
+    st.header("Welcome to SOP Generation POC")
 
     # Define the iframe code as a string
     iframe_code = f'<iframe src="{chatbot_url}" width="125%" height="{iframe_height}" frameborder="0"></iframe>'
